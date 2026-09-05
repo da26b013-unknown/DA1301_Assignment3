@@ -13,4 +13,8 @@ I love the fact that we can view every modified thing on it.
 
 **command**
 git status is a command i like because it shows whether the file is modifed or untracked etc...
+# what I learned
+I am learning how Git and GitHub work together.
+
+
 

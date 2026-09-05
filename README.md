@@ -2,8 +2,8 @@
 # Name
 *E. Shiva Kushwanth*
 # About
-- I am Esanakula shiva kushwanth.
-- I am a 1st year student pursing my B.Tech in AIDA at IIT Madras.
+- I am **Esanakula shiva kushwanth**.
+- I am a 1st year student pursing my B.Tech in **AIDA** at IIT Madras.
 - I am from nellore, andhra pradesh.
 # Intrests
 - drawing/painting.

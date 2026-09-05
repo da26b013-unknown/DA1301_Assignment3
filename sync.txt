@@ -1,2 +1,1 @@
-Hi! I am learning to synchronize commits between Git
-and GitHub
+Hi! I am learning to synchronize commits between Git and GitHub
